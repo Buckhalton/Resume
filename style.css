@@ -1,0 +1,39 @@
+#container {
+	background-color: #D3D3D3;
+	width: 80%;
+	margin: 0 auto;
+	border-radius: 10px;
+	height: 100%;
+}
+
+body {
+	background-color: #232323;
+}
+
+h1 {
+	text-align: center;
+}
+
+.contact {
+	display: inline-block;
+	clear: both;
+	margin-left: 40px;
+	margin-top: -25px;
+
+}
+
+#break {
+	height: 10px;
+	width: 100%;
+	border-top: 2px solid black;
+
+}
+#padding {
+	padding-left: 20px;
+}
+#name {
+	padding-top: 10px;
+}
+
+
+
